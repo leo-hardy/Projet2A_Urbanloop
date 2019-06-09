@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/centre_nancy_start_from_scratch.unity
+  isLoaded: 1
+  isActive: 1
