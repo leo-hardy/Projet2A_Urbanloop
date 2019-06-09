@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class CapsuleScript_1 : MonoBehaviour {
 
-    public float maxSpeed = 70.0f; // max horizontal speed
+    public float maxSpeed = 40.0f; // max horizontal speed
 
-    public Rigidbody Rigidbody;
+    private Rigidbody Rigidbody;
     //private Animator Animator;
     //private CapsuleCollider collider;
     private float angleY;
